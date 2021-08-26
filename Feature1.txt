@@ -1,3 +1,5 @@
 Metodo1(){
 
 }
+Metodo2(){
+}
