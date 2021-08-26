@@ -1,0 +1,7 @@
+Metodo1(){
+a
+}
+Metodo2(){
+}
+Metodo3(){
+}
