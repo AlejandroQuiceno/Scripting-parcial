@@ -1,0 +1,10 @@
+bool verdad = true;
+
+int regresar()
+{
+    if (true)
+    {
+    return 1;
+    }
+    
+}
